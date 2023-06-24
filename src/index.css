@@ -1,0 +1,46 @@
+nav{
+  display: flex;
+  align-items: center;
+  /* margin-left: 500px; */
+  padding-left: 900px;
+  height: 60px;
+  /* background-color: grey; */
+  box-shadow: 8px 2px 8px 8px #888888;
+}
+
+.image-nav{
+  width : 60px;
+
+}
+
+.Para--card{
+  max-width: 900px;
+}
+
+.image--card{
+  width : 8%;
+  border-radius: 10px;
+  height: 250px;
+  margin-top: 30px;
+}
+
+.div--card{
+  display: flex;
+  /* align-items: center; */
+  padding: 40px 20px 20px 50px;
+
+}
+
+.innerdiv--card{
+  padding: 30px 20px 20px 20px;
+}
+
+.details--card{
+  display: flex;
+  align-items: center;
+
+}
+
+.link--card{
+  padding-left: 10px;
+}
